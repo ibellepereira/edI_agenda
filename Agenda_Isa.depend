@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1476814336 source:d:\agenda_isa\agenda.c
+	"agenda.h"
+
+1476814498 d:\agenda_isa\agenda.h
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1476814498 d:\agenda_isa\strcol.h
+	<stdlib.h>
+	<stdio.h>
+
+1476818456 source:d:\agenda_isa\main.c
+	<stdio.h>
+	<locale.h>
+	"menu.h"
+
+1476814400 d:\agenda_isa\menu.h
+	<stdlib.h>
+	<stdio.h>
+	"agenda.h"
+
+1476816238 source:d:\agenda_isa\menu.c
+	"menu.h"
+
+1476815188 source:d:\agenda_isa\strcol.c
+	"StrCol.h"
+
+1476814336 source:e:\agenda_isa\agenda.c
+	"agenda.h"
+
+1476814498 e:\agenda_isa\agenda.h
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1476823642 e:\agenda_isa\strcol.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1476818456 source:e:\agenda_isa\main.c
+	<stdio.h>
+	<locale.h>
+	"menu.h"
+
+1476814400 e:\agenda_isa\menu.h
+	<stdlib.h>
+	<stdio.h>
+	"agenda.h"
+
+1476819424 source:e:\agenda_isa\menu.c
+	"menu.h"
+
+1476815188 source:e:\agenda_isa\strcol.c
+	"StrCol.h"
+
